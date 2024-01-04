@@ -52,9 +52,9 @@ jaanissoosaar8@gmail.com
     <tr>
         <td>Programming/Backend</td>
         <td>
-            <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="blank" alt="Java"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="40" height="40"/></a>
-            <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="blank" alt="Python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40" height="40"/></a>
-            <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="blank" alt="C++"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" height="40"/></a>
+            <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target=":blank" alt="Java"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="40" height="40"/></a>
+            <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target=":blank" alt="Python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="40" height="40"/></a>
+            <a href="https://en.wikipedia.org/wiki/C%2B%2B" target=":blank" alt="C++"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
