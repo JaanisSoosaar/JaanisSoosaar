@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on __a personal project :)__
 - 🌱 I’m currently learning __Java and JavaScript skills__
 - 🤔 I’m looking for help with __finding an internship position__
-- 💬 Ask me about __anything. Always willing to learn something I don't yet know__
+- 💬 Ask me / talk to me about __anything. Always willing to learn something I don't yet know__
 
 <table>
     <tr>
