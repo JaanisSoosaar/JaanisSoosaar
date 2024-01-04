@@ -34,8 +34,8 @@ jaanissoosaar8@gmail.com
     <tr>
         <td>CI/CD</td>
         <td>
-            <a href="https://en.wikipedia.org/wiki/GitHub" target="blank" rel="noopener noreferrer" alt="GitHub"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
-            <a href="https://en.wikipedia.org/wiki/Bitbucket" target="blank" rel="noopener noreferrer" alt="BitBucket"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" width="40" height="40"/></a>
+            <a href="https://en.wikipedia.org/wiki/GitHub" target="blank" alt="GitHub"><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
+            <a href="https://en.wikipedia.org/wiki/Bitbucket" target="blank" alt="BitBucket"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" width="40" height="40"/></a>
         </td>
     </tr>
 <!--    <tr>
