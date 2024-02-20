@@ -7,20 +7,6 @@
 - 🤔 I’m looking for help with __finding an internship position__
 - 💬 Ask me / talk to me about __anything. Always willing to learn something I don't yet know__
 
-<table>
-    <tr>
-        <th>My Website</th>
-        <th>My CV</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://jaaniss.github.io/">🌐 Work in progress :)</a>
-        </td>
-        <td>
-            <a href="https://jaaniss.github.io/">📃 Work in progress :)</a>
-        </td>
-    </tr>
-</table>
 
 ### Contact me:
 
