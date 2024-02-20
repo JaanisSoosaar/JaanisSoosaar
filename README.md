@@ -2,8 +2,8 @@
 
 # Informatics / Computer Science 2nd year student at University of Tartu
 
-- 🔭 I’m currently working on __a personal project :)__
-- 🌱 I’m currently learning __Java and JavaScript skills__
+- 🔭 I’m currently working on __improving my skills__
+- 🌱 I’m currently learning __Java, Vue.js and Node.js more in depth__
 - 🤔 I’m looking for help with __finding an internship position__
 - 💬 Ask me / talk to me about __anything. Always willing to learn something I don't yet know__
 
