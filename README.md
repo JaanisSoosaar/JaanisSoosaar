@@ -1,10 +1,10 @@
 ### Hello there 👋 I'm Jaanis
 
-# Informatics / Computer Science 2nd year student at University of Tartu
+# Informatics / Computer Science 3rd year student at University of Tartu
 
 - 🔭 I’m currently working on __improving my skills__
-- 🌱 I’m currently learning __Java, Vue.js and Node.js more in depth__
-- 🤔 I’m looking for help with __finding an internship position__
+- 🌱 I’m currently learning __Java, Vue.js and React more in depth__
+- 🤔 I’m looking for help with __finding an internship/junior developer position__
 - 💬 Ask me / talk to me about __anything. Always willing to learn something I don't yet know__
 
 
